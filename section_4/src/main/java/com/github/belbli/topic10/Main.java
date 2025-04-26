@@ -1,6 +1,7 @@
 package com.github.belbli.topic10;
 
 public class Main {
+
     public static void main(String[] args) {
         String s = "323" + 2;
         String s2 = 2 + "323";
